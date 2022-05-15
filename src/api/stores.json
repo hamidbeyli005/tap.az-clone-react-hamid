@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "telefonDukanı",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic dolore quaerat totam. Voluptates, porro eaque!",
+    "number": "(060) 331-28-04",
+    "image": "https://cdn.pixabay.com/photo/2020/04/12/10/57/store-5033746__340.png"
+  },
+  {
+    "id": 2,
+    "name": "telefonDukanı_1",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic dolore quaerat totam. Voluptates, porro eaque!",
+    "number": "(060) 331-28-04",
+    "image": "https://cdn.pixabay.com/photo/2020/04/12/10/57/store-5033746__340.png"
+  },
+  {
+    "id": 3,
+    "name": "telefonDukanı2",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic dolore quaerat totam. Voluptates, porro eaque!",
+    "number": "(060) 331-28-04",
+    "image": "https://cdn.pixabay.com/photo/2020/04/12/10/57/store-5033746__340.png"
+  },
+  {
+    "id": 4,
+    "name": "stolstaısı_2",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic dolore quaerat totam. Voluptates, porro eaque!",
+    "number": "(060) 331-28-04",
+    "image": "https://cdn.pixabay.com/photo/2020/04/12/10/57/store-5033746__340.png"
+  },
+  {
+    "id": 5,
+    "name": "borumagaza",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic dolore quaerat totam. Voluptates, porro eaque!",
+    "number": "(060) 331-28-04",
+    "image": "https://cdn.pixabay.com/photo/2020/04/12/10/57/store-5033746__340.png"
+  },
+  {
+    "id": 6,
+    "name": "kıtabdukanı",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic dolore quaerat totam. Voluptates, porro eaque!",
+    "number": "(060) 331-28-04",
+    "image": "https://cdn.pixabay.com/photo/2020/04/12/10/57/store-5033746__340.png"
+  }
+  ,
+  {
+    "id": 7,
+    "name": "kıtabdukanı2",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic dolore quaerat totam. Voluptates, porro eaque!",
+    "number": "(060) 331-28-04",
+    "image": "https://cdn.pixabay.com/photo/2020/04/12/10/57/store-5033746__340.png"
+  }
+]
